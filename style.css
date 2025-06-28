@@ -1,4 +1,8 @@
 
+              @media (max-width: 768px) {
+    /* Adjust layout for tablets and phones */
+}
+
         * {
             margin: 0;
             padding: 0;
